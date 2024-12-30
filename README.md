@@ -1,8 +1,8 @@
 # Schema-generator
 
-THis a fine tuned version og GPT 2.0 that gennrate schems code based on product decsription ,
+This a fine tuned version of the LLM  GPT 2.0 that generate schemes code based on product description,
 
 
-The computed accuracy is aroun 70% 
+The computed accuracy is around 70% 
 
-wtih aroun several 900 diffrent schma code 
+with around several 900 different schema code 
